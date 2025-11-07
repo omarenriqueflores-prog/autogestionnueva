@@ -3,7 +3,7 @@ import type { User, Invoice, Plan, Claim, NewsItem } from '../types';
 // --- MODO DE DEMOSTRACIÓN ---
 // Cambie este valor a 'false' para conectar con un backend real.
 // Si es 'true', la aplicación usará datos de prueba y no hará llamadas de red.
-const USE_MOCK_API = false;
+const USE_MOCK_API = true;
 
 // --- CONFIGURACIÓN DEL SERVIDOR ---
 // Se establece la URL completa del backend desplegado en Render.com.
